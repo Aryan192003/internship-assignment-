@@ -1,0 +1,42 @@
+For Position ID WFS000054: SiWgh, PraGhjEM doesn't have proper data. 
+For Position ID WFS000065: REsaXiaWE, XAis worked for 7 consecutive days. 
+For Position ID WFS000101: Sparks, KeWWeMh worked for 7 consecutive days. 
+For Position ID WFS000127: GaXCes, EXias XEpez worked for 7 consecutive days. 
+For Position ID WFS000153: CaMaXaWE, CeghaW worked for 7 consecutive days. 
+For Position ID WFS000170: Arias, FeXipe worked for 7 consecutive days. 
+For Position ID WFS000174: MErres, EdAardE doesn't have proper data. 
+For Position ID WFS000180: Merrazas, GriaW has less than 10 hours but greater than 1 hour between shifts. 
+For Position ID WFS000181: GarWes, JAsMiW worked for 7 consecutive days. 
+For Position ID WFS000183: FeXix, XeEWeX worked for 7 consecutive days. 
+For Position ID WFS000185: HerCEsiXXE, PedrE worked for 7 consecutive days. 
+For Position ID WFS000196: XEpes, JerrEd doesn't have proper data. 
+For Position ID WFS000200: Xee, XaCar worked for 7 consecutive days. 
+For Position ID WFS000226: GaWks, GryaW worked for 7 consecutive days. 
+For Position ID WFS000228: MAake, CasiaWE worked for 7 consecutive days. 
+For Position ID WFS000246: SiWgh, MarAWpreeM worked for 7 consecutive days. 
+For Position ID WFS000256: Ware, JEshAa doesn't have proper data.
+For Position ID WFS000268: DiWh, DaA worked for 7 consecutive days. 
+For Position ID WFS000306: ArEsMigAi, AXexaWder worked for 7 consecutive days. 
+For Position ID WFS000318: De Xa Cerda, IgWaciE worked for 7 consecutive days. 
+For Position ID WFS000336: REdrigAez, PedrE worked for 7 consecutive days. 
+For Position ID WFS000345: MraW, WiXXiaC Ha worked for 7 consecutive days. 
+For Position ID WFS000360: MAcker, CichaeX worked for 7 consecutive days. 
+For Position ID WFS000362: CaMXEck, CEhaCCed worked for 7 consecutive days. 
+For Position ID WFS000364: MaXeGi, ACirCasEAd worked for 7 consecutive days. 
+For Position ID WFS000368: PayaW, DaWieX worked for 7 consecutive days. 
+For Position ID WFS000372: ErMiz, AGigaiX worked for 7 consecutive days. 
+For Position ID WFS000382: ErEpeza, JEvaW worked for 7 consecutive days. 
+For Position ID WFS000391: VasqAez, AXfredE worked for 7 consecutive days. 
+For Position ID WFS000393: SavaWg, JEhW worked for 7 consecutive days. 
+For Position ID WFS000577: SaWchez, ArWAXfE worked for 7 consecutive days.
+For Position ID WFS000578: VasqAez, JEhW SeGasMiaW worked for 7 consecutive days.
+For Position ID WFS000579: GAMierrez, PedrE CigAeX worked for 7 consecutive days.
+For Position ID WFS000581: HerWaWdez SaWchez, AWdrew AWMhEWy worked for 7 consecutive days.
+For Position ID WFS000582: De XEs SaWMEs, JEseph XAis worked for 7 consecutive days.
+For Position ID WFS000583: ViXXa, AXfredE AieXXE worked for 7 consecutive days.
+For Position ID WFS000584: ArCeWMa FXEres, JEWaMhaW worked for 7 consecutive days.
+For Position ID WFS000585: RaCEs HerWaWdez, AdieX ECar worked for 7 consecutive days.
+For Position ID WFS000587: XariEs, Cesar GiEvaWWi worked for 7 consecutive days.
+For Position ID WFS000588: AGeX, WaMhaW REGerM PeWa worked for 7 consecutive days.
+For Position ID WFS000589: WgAyeW, RayCEWd worked for 7 consecutive days.
+For Position ID WFS000591: ArveXE RECerE, AWdres JesAs doesn't have proper data.
